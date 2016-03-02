@@ -16,6 +16,14 @@ public class App {
 			 }
 		 }// end stephen #2
 		 
+		 
+		 int a = 1;
+		 int b = 2;
+		 System.out.println("1 + 2 = " + a + b); //julian
 	}
-
+	
+	public int miraldaRodney(){
+		 //created miralda method!!!
+		return 0;
+	}
 }
