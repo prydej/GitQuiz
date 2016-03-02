@@ -7,19 +7,9 @@ public class App {
 		 
 		 char a, b, c; // stephen #1
 		 
-		 
-		 // stephen #2
-		 int i, j;
-		 for (i=0; i<5; i++){
-			 for (j=0; j<5; j++){
-				 System.out.println(" * ");
-			 }
-		 }// end stephen #2
-		 
-		 
-		 int a = 1;
-		 int b = 2;
-		 System.out.println("1 + 2 = " + a + b); //julian
+		 int d = 1;
+		 int f = 2;
+		 System.out.println("1 + 2 = " + d + f); //julian
 	}
 	
 	public int miraldaRodney(){
@@ -30,4 +20,11 @@ public class App {
 		
 		return myName;
 	}
+	
+	public int savanhLu(){
+		
+		System.out.print("my family is going to shun me for getting C's");
+		return 0;
+	}
+	
 }
