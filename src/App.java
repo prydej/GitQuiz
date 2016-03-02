@@ -23,7 +23,11 @@ public class App {
 	}
 	
 	public int miraldaRodney(){
-		 //created miralda method!!!
-		return 0;
+		 // first step created miralda method!!!
+		
+		//second step created variable
+		int myName = 1;	
+		
+		return myName;
 	}
 }
