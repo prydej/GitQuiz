@@ -7,5 +7,9 @@ public class App {
 		 
 		 char a, b, c; // stephen #1
 	}
-
+	
+	public int miraldaRodney(){
+		 //created miralda method!!!
+		return 0;
+	}
 }
