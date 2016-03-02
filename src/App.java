@@ -5,5 +5,9 @@ public class App {
 		// TODO Auto-generated method stub
 
 	}
-
+	
+	public int miraldaRodney(){
+		 //created miralda method!!!
+		return 0;
+	}
 }
