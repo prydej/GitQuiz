@@ -11,5 +11,9 @@ public class App {
 		 int b = 2;
 		 System.out.println("1 + 2 = " + a + b); //julian
 	}
-
+	
+	public int miraldaRodney(){
+		 //created miralda method!!!
+		return 0;
+	}
 }
